@@ -4,3 +4,4 @@
 # Days 
 - #### [Day 1: Chronal Calibration](https://github.com/ogeorgy/aoc2018/tree/master/day01)
 - #### [Day 2: Inventory Management System](https://github.com/ogeorgy/aoc2018/tree/master/day02) 
+- #### [Day 3: No Matter How You Slice It](https://github.com/ogeorgy/aoc2018/tree/master/day03) 
