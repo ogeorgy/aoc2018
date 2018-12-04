@@ -13,7 +13,7 @@ import (
 )
 
 func main() {
-	data, err := os.Open("input.txt")
+	data, err := os.Open("../input.txt")
 	if err != nil {
 		panic(err)
 	}
